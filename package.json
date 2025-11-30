@@ -2,7 +2,7 @@
   "name": "jsx-01",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://norowrta.github.io/JSX-01",
+  "homepage": "https://norowrta.github.io/HW-JSX-01/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^19.2.0",
